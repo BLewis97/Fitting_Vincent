@@ -1,0 +1,9 @@
+Parameters,Values
+Measured Power,"[1.5, 15, 150]"
+Absorption,0.9
+Spot Area/ cm^2,0.03192645105006955
+Sample Thickness/ nm,160
+Pump Wavelength/ nm,532
+Carrier Density/ cm^-3,"[7077692873350850.0, 7.07769287335085e+16, 7.077692873350849e+17]"
+Power Fluence/ uJcm-2,"[46.982985914957574, 469.8298591495757, 4698.298591495757]"
+Energy Fluence/ nJcm-2,"[46.982985914957574, 469.8298591495757, 4698.298591495757]"
